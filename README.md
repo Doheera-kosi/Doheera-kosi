@@ -12,11 +12,11 @@
 - 🌱 I’m working with `HTML` `CSS` `JavaScript` `Ruby`, `Ruby on Rails`, `PostgreSQL`
 - 👯 I’m looking to collaborate on JavaScript, React and Rails projects.
 - 🌱 Don't be shy to say Hi
-- ⚡ Fun fact: I am Singer.
+- ⚡ Fun fact: I am Instrumentalist.
 
 <br />
 <h3> 👱 Visitors count </h3>
-<img src="https://profile-counter.glitch.me/HAMMAS-SALEEM/count.svg" />
+<img src="https://profile-counter.glitch.me/Doheera-kosi/count.svg" />
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
@@ -119,9 +119,9 @@
   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
+  <!-- <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
+  </a> -->
 </p>
 
 ----
