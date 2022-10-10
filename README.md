@@ -130,7 +130,7 @@
 
 <div style="margin-top:10px">
   <div>
-    <a  href="https://www.linkedin.com/in/hammas-saleem/" target="_blank">
+    <a  href="https://www.linkedin.com/in/evans-kupour-1879421a3/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
     <a href="https://twitter.com/HammasSaleem4" target="_blank">
@@ -167,7 +167,7 @@ Ask me anything here
 or email me 
 http://hammassaleem376@gmail.com
 
-⭐️ From [HAMMAS](https://github.com/HAMAS-SALEEM)
+⭐️ From [Evans](https://github.com/Doheera-kosi)
 
 ## Happy Coding! 😊
 
