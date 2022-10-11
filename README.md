@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/HAMMAS-SALEEM" target="_blank">
+  <a href="https://github.com/Doheera-kosi" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
@@ -142,7 +142,7 @@
 <h3>Reach me</h3>
 
 <p>
-  <a href="mailto:hammassaleem376@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:kupourevans99@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
@@ -153,9 +153,9 @@
 # Github's Status
 
   <p align="center">
-   <a href="https://github.com/HAMMAS-SALEEM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAMMAS-SALEEM&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMAS-SALEEM&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
+   <a href="https://github.com/Doheera-kosi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doheera-kosi&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doheera-kosi&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
   </a>
 </p>
 </h3>
@@ -165,7 +165,7 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
 or email me 
-http://hammassaleem376@gmail.com
+http://kupourevans99@gmail.com/
 
 ⭐️ From [Evans](https://github.com/Doheera-kosi)
 
